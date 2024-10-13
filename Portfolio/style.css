@@ -1,0 +1,16 @@
+* {
+    margin-left: 5px;
+    padding: 0px;
+    
+}
+
+body {
+background-image: url("4.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.asfsdg {
+    display: flex;
+    
+}
